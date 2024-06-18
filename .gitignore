@@ -1,0 +1,22 @@
+
+/server/node_modules
+/web-app/node_modules
+/web-app/.pnp
+/web-app/.pnp.js
+
+# testing
+/web-app//coverage
+
+# production
+/web-app//build
+
+# misc
+/web-app/.DS_Store
+/web-app/.env.local
+/web-app/.env.development.local
+/web-app/.env.test.local
+/web-app/.env.production.local
+
+/web-app/npm-debug.log*
+/web-app/yarn-debug.log*
+/web-app/yarn-error.log*
