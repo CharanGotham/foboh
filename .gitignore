@@ -5,7 +5,7 @@
 /web-app/.pnp.js
 
 # testing
-/web-app//coverage
+/web-app/coverage
 
 # production
 /web-app//build
